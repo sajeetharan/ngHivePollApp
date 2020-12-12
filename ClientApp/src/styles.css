@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+.row {
+  margin: 0 0 10px 0;
+}
+
+.no-margin{
+  margin:0;
+}
+
+.create {
+  border: 1px solid;
+  margin-bottom: 15px;
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pollFont {
+  font-family: 'Roboto', 'arial', sans-serif !important;
+}
+
+ 
